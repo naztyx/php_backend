@@ -17,6 +17,8 @@ This is a simple PHP-based RESTful API built using the Slim Framework to manage 
 - Composer (for dependency management)
 - MySQL (with the Employees sample database)
 - XAMPP or equivalent local server environment
+```
+The sample databse can be gotten from [here](https://github.com/datacharmer/test_db.git)
 
 ## Project Installation
 
@@ -24,7 +26,6 @@ This is a simple PHP-based RESTful API built using the Slim Framework to manage 
    ```bash
    git clone this repository and, cd into it
    ```
- The sample databse can be gotten from [here](https://github.com/datacharmer/test_db.git)
 
 2. **Install Dependencies**
    ```bash
