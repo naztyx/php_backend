@@ -3,7 +3,7 @@
 ```markdown
 # Employee Management API
 
-This is a simple PHP-based RESTful API built using the Slim Framework to manage employee data, leveraging a MySQL Employees sample database whcih can be gotten from [here](https://github.com/datacharmer/test_db.git). The API provides endpoints for creating, retrieving, updating, and deleting employee profiles.
+This is a simple PHP-based RESTful API built using the Slim Framework to manage employee data, leveraging a MySQL Employees sample database. The API provides endpoints for creating, retrieving, updating, and deleting employee profiles.
 
 ## Features
 - Create new employee profiles with details like name, department, salary, and title.
@@ -24,6 +24,7 @@ This is a simple PHP-based RESTful API built using the Slim Framework to manage 
    ```bash
    git clone this repository and, cd into it
    ```
+ The sample databse can be gotten from [here](https://github.com/datacharmer/test_db.git)
 
 2. **Install Dependencies**
    ```bash
